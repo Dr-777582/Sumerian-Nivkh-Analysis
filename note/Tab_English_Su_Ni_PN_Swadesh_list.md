@@ -146,7 +146,7 @@ Consonant assimilation
 Statistical Results:
  Of 86 comparable positions, we found 12 strong and 24 medium matches (total 36 = 41.9%). Random matches expect ~5–8%. The result proves statistically significant (*p* < 0.01).
 
- 
+ ------
 
  **Автоматическое** **сравнение**
 
@@ -199,5 +199,6 @@ ePSD
 Halloran Sumerian Lexicon (2006)
 
 Kassian (2014)
+
 
 Many gaps exist due to the corpus-based nature of Sumerian (no native speakers, limited texts). Pronouns are independent forms; verbs are stems.
