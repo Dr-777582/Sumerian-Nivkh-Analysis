@@ -129,7 +129,7 @@ This isn't proof of relationship, but it's an interesting signal that deserves f
 
 **Conclusion:** Nivkh and Yukaghir exhibit slightly more lexical similarities than expected for two completely unrelated Siberian / Far Eastern languages by chance. **In short:** marginally suspicious, but still within the realm of chance.
 
- 
+ ------
 
 **Сравнение нивхского и юкагирского языков (на основе предоставленной таблицы)**
 
@@ -156,7 +156,6 @@ This isn't proof of relationship, but it's an interesting signal that deserves f
 Это не доказательство родства, но интересный сигнал, который в заслуживает дополнительного внимания (особенно морфологии, фонологии и грамматике).
 
 **Вывод**: Нивхский и юкагирский демонстрируют немного больше лексических сходств, чем ожидаемо для двух полностью неродственных языков Сибири / Дальнего Востока при случайном совпадении. Если коротко: маргинально подозрительно, но пока ещё в пределах случайности.
-
  
 
 **Source**
