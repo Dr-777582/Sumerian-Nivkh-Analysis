@@ -123,7 +123,7 @@
 
 Даже при одном совпадении высокого уровня общее количество «сигналов» делает результат статистически значимым. Это не доказательство родства, но заметный намек на возможный древний контакт или общий субстрат (шумерский и баскский – изоляты с неяснями связями).
 
-
+------
 
 **Sumerian and Basque Language Comparison (Based on Table)**
 
@@ -150,5 +150,6 @@ Even with a single high-level match, the total number of "signals" makes the res
 https://en.wiktionary.org/wiki/Appendix:Basque_Swadesh_list 
 
 [Basque dictionaries (Lexilogos)](http://www.lexilogos.com/basque_langue_dictionnaires.htm) (*French*)
+
 
 [Basque Wiktionary](https://eu.wiktionary.org/wiki/azala) (*Basque*)
