@@ -13,7 +13,7 @@ Match criterion = D-L ≤ 2 (very strict threshold for basic vocabulary). Expect
 | Nivkh – Ainu              | 92                   | 5           | ≈ 0.490                            | not significant            | pure noise                                |
 | Sumerian – Basque         | 86                   | 9           | ≈ 0.030                            | **significant** (p < 0.05) | noticeable signal, deserves attention     |
 | Sumerian – Burushaski     | 75                   | 7           | ≈ 0.080                            | marginal                   | weak–medium signal                        |
-| Sumerian – Nivkh (strict) | 85                   | 8           | ≈ 0.060                            | marginal                   | slightly above background, but not strong |
+| Sumerian – Nivkh (formal) | 85                   | 8           | ≈ 0.060                            | marginal                   | slightly above background, but not strong |
 
 **2. Linguistically Informed Approach**
 
@@ -46,9 +46,7 @@ Regular phonetic correspondences are taken into account (lenition, palatalizatio
 3. **Nivkh with Itelmen and Ainu** remain within the typical noise level for Paleoasiatic isolates.
 4. The difference between the formal and linguistically informed approaches is most pronounced precisely for Sumerian–Nivkh: this indicates that many parallels are **systematic and explainable by regular phonetic changes**, not random.
 5. Formal Approach detects only raw, superficial similarities. Sumerian–Basque stands out as the only significantly non-random pair (p=0.028), while others (including Sumerian–Nivkh at p=0.062) are marginal or noise-like. This suggests Basque parallels are more "obvious" without assuming sound changes, possibly due to shorter words or direct borrowings. Pairs like Nivkh–Itelmen/Ainu show typical isolate noise (3–5% matches). 
-
 6. Linguistically informed Approach Insights. When accounting for phonetic shifts (as in the file's methodology), all pairs except perhaps Nivkh–Itelmen/Ainu become significant, with Sumerian–Nivkh overwhelmingly dominant (41.9%, p effectively 0). This implies deeper, systematic connections in Sumerian–Nivkh, potentially supporting macro-family hypotheses (e.g., Eurasiatic or Paleo-Siberian links). Nivkh–Yukaghir and Sumerian–Basque also show strong signals (19–20%), hinting at ancient contacts. 
-
 7. Strongest Pair: Sumerian–Nivkh (extreme in Linguistically informed approach; marginal in strict) — anomalous and warrants further research (e.g., morphology, grammar).
 
 Consistent Signals: Sumerian pairs (Basque, Burushaski, Nivkh) generally outperform Nivkh–Paleo-Siberian pairs, suggesting Sumerian as a "bridge" isolate.
